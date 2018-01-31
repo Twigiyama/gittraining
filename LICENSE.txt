@@ -1,2 +1,2 @@
 # LICENSE
-## Apache License
+## Apache License 3.0
